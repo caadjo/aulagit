@@ -1,0 +1,37 @@
+Planilha de investimentos  - Caio Veloso Dias
+
+
+
+2024-03-15
+BTC	+0.00143461    Fiat	0.00143461 (500 BRL)	Compra de moeda
+
+
+
+2024-03-27 	
+NEAR	+1.40251547  	Fiat	1.40251547 (52 BRL)	Compra de moeda
+
+AVAX	+0.19012256     Fiat	0.19012256 (52 BRL)	Compra de moeda
+
+SOL	+0.05604991     Fiat	0.05604991 (52 BRL)	Compra de moeda
+
+ETH	+0.00583166     Fiat	0.00583166 (52 BRL)	Compra de moeda
+
+
+
+2024-04-02
+BTC	+0.00088434     Fiat	0.00231895 (300 BRL)	Compra de moeda
+
+ETH	+0.00588129     Fiat    0.01171295(100 BRL)	Compra de moeda
+
+
+
+2024-04-09
+BTC	+0.00027554      Fiat	0.00259449(100 BRL)	Compra de moeda
+ETH	+0.0028011       Fiat	0.01451405(52 BRL)	Compra de moeda
+NEAR	+1.33582337	 Fiat	2.73833884(52 BRL)	Compra de moeda
+SOL	+0.0578112       Fiat	0.11386111(52 BRL) 	Compra de moeda
+AVAX	+0.20951105	 Fiat	0.39963361(52 BRL)	Compra de moeda
+ADA	+16.33415        Fiat	16.33415(52 BRL)	Compra de moeda
+
+
+
